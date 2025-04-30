@@ -31,7 +31,7 @@ Projekte sind für mich Lernplattformen – ich experimentiere, scheitere, verbe
 - React-Frontend mit Spring Boot-Backend zu verbinden  
 - Authentifizierung mit JWT + Refresh Token  
 - Clean Code, DTOs und einfache Validierung im Backend  
-- Drei.js und WebGL für kreative Webprojekte
+- Three.js und WebGL für kreative Webprojekte
 
 ## 📓 Lernprojekte (Auswahl)
 - **Learning Journal API** – Erste REST-API mit Spring Boot, User-Auth & Journaleinträgen  
